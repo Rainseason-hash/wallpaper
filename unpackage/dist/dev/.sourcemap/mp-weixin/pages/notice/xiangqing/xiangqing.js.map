@@ -1,0 +1,1 @@
+{"version":3,"file":"xiangqing.js","sources":["../../HBuilderX/plugins/uniapp-cli-vite/uniPage:/cGFnZXMvbm90aWNlL3hpYW5ncWluZy94aWFuZ3FpbmcudnVl"],"sourcesContent":["import MiniProgramPage from 'D:/program files/HBuilderX.4.76.2025082103/Project/wallPaper/pages/notice/xiangqing/xiangqing.vue'\nwx.createPage(MiniProgramPage)"],"names":[],"mappings":";;;;;;;AACA,GAAG,WAAW,eAAe;"}
